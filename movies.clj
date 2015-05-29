@@ -1,0 +1,1 @@
+({:title "Shutter Island", :price "$8.00", :qty 33, :id-num 1} {:title "Fight Club", :price "$12.75", :qty 5, :id-num 2} {:title "Vanilla Sky", :price "$8.50", :qty 0, :id-num 3} {:title "Dark Knight Rises", :price "$14.00", :qty 19, :id-num 4})
